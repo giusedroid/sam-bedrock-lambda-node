@@ -9,7 +9,8 @@ In this demo you will see:
 
 - How to use Amazon Bedrock from a Lambda function written in NodeJS
 
-This demo is part of a video posted in FooBar Serverless channel. You can check the video to see the whole demo.
+This demo is part of a video posted in FooBar Serverless channel. You can check the [video](https://youtu.be/P9Lnf4GMUsI) to see the whole demo.  
+The video showcases a Python lambda function: this repository is simply a NodeJS implementation of the same concept.
 
 Important: this application uses various AWS services and there are costs associated with these services after the Free Tier usage - please see the AWS Pricing page for details. You are responsible for any AWS costs incurred. No warranty is implied in this example.
 
@@ -57,5 +58,6 @@ sam delete
 ## Links related to this code
 
 - Video with more details: https://youtu.be/P9Lnf4GMUsI
+- Original repository: https://github.com/mavi888/sam-bedrock-lambda
 
 ````
